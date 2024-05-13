@@ -9,5 +9,5 @@ pip install -r requirements.txt
 
 To run the app:
 ```
-flet run profile-app
+python main.py
 ```
